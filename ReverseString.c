@@ -7,11 +7,10 @@ void main()
    int i, j, k;
    char str[100];
    char *rev;
-   printf("Enter a string\t");
+   printf("Enter a string :\t");
    scanf("%s", str);
-   printf("The original string is %s\n", str);
    rev = reverse(str);
-   printf("The reverse string is %s\n", rev);
+   printf("The reverse string is : %s\n", rev);
    getch();
 }
 
