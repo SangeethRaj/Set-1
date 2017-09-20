@@ -3,7 +3,7 @@ int main()
 {
     long long num;
     int count = 0;
-    printf("Enter an integer: ");
+    printf("integer: ");
     scanf("%lld", &num);
     while(num != 0)
     {
