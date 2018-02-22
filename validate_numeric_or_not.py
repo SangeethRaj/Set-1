@@ -1,5 +1,5 @@
 user_input = input("Enter a string")
 if if userinput.isdigit():
-print("string is an numeric")
+print("Yes")
 else :
-print("String is stupid")
+print("No")
